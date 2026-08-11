@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "Futuristic AI personal assistant with glowing HUD arc reactor orb, Gemini voice intelligence, Screen Vision context analysis, Smart Reply notification helper, and local trigger-action automation engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
